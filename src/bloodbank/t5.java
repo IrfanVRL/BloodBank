@@ -7,7 +7,7 @@ package bloodbank;
 
 /**
  *
- * @author Ritesh
+ * @author irfan vural
  */
 class t5 {
 

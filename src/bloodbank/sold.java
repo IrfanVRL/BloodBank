@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ankit
+ * @author irfan vural
  */
 public class sold extends javax.swing.JFrame {
 

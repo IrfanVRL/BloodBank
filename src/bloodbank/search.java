@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author ankit
+ * @author irfan vural
  */
 public class search extends javax.swing.JFrame {
 

@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ankit
+ * @author irfan vural
  */
 public class newdonor extends javax.swing.JFrame {
 
